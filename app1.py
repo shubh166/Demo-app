@@ -1,2 +1,2 @@
-Print("Internet")
+print("Internet")
 

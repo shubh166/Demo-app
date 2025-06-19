@@ -1,2 +1,2 @@
-print("Internet")
+print("Internet in use")
 

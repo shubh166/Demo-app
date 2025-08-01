@@ -1,2 +1,2 @@
-print("Internet in use")
+print("Internet usage is not much supported")
 
